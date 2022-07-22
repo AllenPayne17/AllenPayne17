@@ -13,4 +13,4 @@ Hi!, I'm John Allen a 20 yo Aspiring Software Engineer. currently studying BS Co
 ---
 [![](https://visitcount.itsvg.in/api?id=AllenPayne17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![](https://www.codewars.com/users/AllenPayne17/badges/large)]
+![](https://www.codewars.com/users/AllenPayne17/badges/large)
