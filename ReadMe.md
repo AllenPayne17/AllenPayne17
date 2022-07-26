@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!, I'm John Allen a 20 yo Aspiring Software Engineer. currently studying BS Computer Science. I have always enjoyed working with computers and what interests me in particular is front end development. also I enjoy reading about the latest trends in technology.
+Hi!, I'm John Allen a 20 yo Aspiring Software Engineer. currently studying BS Computer Science. I have always enjoyed working with computers and what interests me in particular is Software development. also I enjoy reading about the latest trends in technology.
 
 
 ## 🌐 Socials:
