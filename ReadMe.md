@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John allen</h1>
-<h4 align="center">currently studying BS Computer Science. and i always enjoyed working with computers and what interests me in particular is Software development.</h4>
+<h4 align="center">A passionate frontend developer. currently studying BS Computer Science. and i always enjoyed working with computers and what interests me in particular is Software development.</h4>
 
 - 🔭 I’m currently working on **my Portfolio**
 
