@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm John allen</h1>
 <h3 align="center">A passionate frontend developer base in metro manila Philippines</h3>
-
+< align="center">
 - 🔭 I’m currently working on **my Portfolio**
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **any project**
+</>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
