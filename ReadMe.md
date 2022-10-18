@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm John allen</h1>
 <h4 align="center">I'm a freelance front-end developer with a Bachelor of Science in Computer Science who is passionate about building modern and responsive websites.</h4>
+
 - 🔭 I’m currently working on **my Portfolio**
 
 - 🌱 I’m currently learning **Project Management**
