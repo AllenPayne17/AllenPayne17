@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm John allen</h1>
-<h4 align="center">I'm a passionate front-end developer. I am currently studying BS Computer Science. I have always enjoyed working with computers, and what interests me in particular is software development.</h4>
-
+<h4 align="center">I'm a freelance front-end developer with a Bachelor of Science in Computer Science who is passionate about building modern and responsive websites.</h4>
 - 🔭 I’m currently working on **my Portfolio**
 
 - 🌱 I’m currently learning **Project Management**
