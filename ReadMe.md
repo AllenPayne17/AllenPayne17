@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm John allen</h1>
-<h4 align="center">I'm a freelance front-end developer with a Bachelor of Science in Computer Science who is passionate about building modern and responsive websites.</h4>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+John+Allen)](https://git.io/typing-svg)
+<h4>I'm a freelance front-end developer with a Bachelor of Science in Computer Science who is passionate about building modern and responsive websites.</h4>
 
 - 🔭 I’m currently working on **my Portfolio**
 
