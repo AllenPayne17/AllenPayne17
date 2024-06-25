@@ -59,5 +59,3 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/AllenPayne17/AllenPayne17/output/snake.svg" alt="Snake animation" />
-
-
