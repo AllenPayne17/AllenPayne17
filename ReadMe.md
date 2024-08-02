@@ -58,4 +58,8 @@
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/AllenPayne17/AllenPayne17/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
