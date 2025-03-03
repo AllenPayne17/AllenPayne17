@@ -51,9 +51,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AllenPayne17/AllenPayne17/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AllenPayne17/AllenPayne17/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
