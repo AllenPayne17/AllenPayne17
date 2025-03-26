@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **human**
 
-- 🌱 I’m currently learning **Project Management**
+- 🌱 I’m currently relearning **how to draw since I forgot a lot of it when I started coding. I don’t want to lose my artistic side, so I’m practicing again every weekend**
 
 - 👯 I’m looking to collaborate on **any start-up businesses**
 
