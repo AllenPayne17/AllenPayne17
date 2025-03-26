@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **Project Management**
 
-- 👯 I’m looking to collaborate on **on any start-up businesses**
+- 👯 I’m looking to collaborate on ** any start-up businesses**
 
 - ⚡ Fun fact **I enjoy reading about the latest trends in technology**
